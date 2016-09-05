@@ -1,7 +1,7 @@
 # Chick-Fil-A Nuggets
-Prep: 15m  
+Prep: 3h 15m  
 Cook: 20m  
-Ready: 35m  
+Ready: 3h 35m  
 
 ## Ingredients
 * 2 lbs chicken breasts
