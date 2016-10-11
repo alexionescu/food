@@ -1,4 +1,4 @@
-# Parmesean Chicken
+# Parmesan Chicken
 Prep: 15m
 Cook: 60m  
 Ready: 1h 15m  
@@ -10,7 +10,7 @@ Ready: 1h 15m
 * 1/4 tsp garlic powder
 * 1/4 tsp paprika
 * 1/4 tsp dried thyme
-* 1/2 cup grated Parmesean cheese
+* 1/2 cup grated Parmesan cheese
 * 1 tbs chopped fresh parsley
 * 1/2 cup seasoned dry bread crumbs
 * 1/4 cup butter, melted
