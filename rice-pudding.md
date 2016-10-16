@@ -1,5 +1,5 @@
 # Rice Pudding
-Prep: 10m
+Prep: 10m  
 Cook: 40m  
 Ready: 0h 50m  
 

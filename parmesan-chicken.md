@@ -1,5 +1,5 @@
 # Parmesan Chicken
-Prep: 15m
+Prep: 15m  
 Cook: 60m  
 Ready: 1h 15m  
 

@@ -1,7 +1,7 @@
 # Indian Chicken Curry (Murgh Kari)
-Prep: 20m
-Cook: 40m
-Ready: 1h
+Prep: 20m  
+Cook: 40m  
+Ready: 1h  
 
 ## Ingredients
 * 2.5 skinless, boneless, chicken breast halves
