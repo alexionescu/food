@@ -19,12 +19,12 @@ Ready: 12h 30m
 * 1 tbs vegetable oil
 * 1 cup tomato sauce
 * 1 tbs white sugar
-* 1 1/4 tsp salt
+* 1/2 tsp salt
 * 1 cup heavy cream
 
 ## Directions
 1. Combine the marinade ingredients with the chicken in a bowl. Cover and refrigerate overnight, or up to 12 hours.
-2. Heat the vegetable oil over high heat in a large fry pan. Add the chicken coated int he marinade and cook for around 5 minutes, or until the chicken is white all over. (It doesn't really brown due to the marinade)
+2. Heat the vegetable oil over high heat in a large fry pan. Add the chicken coated in the marinade and cook for around 5 minutes, or until the chicken is white all over. (It doesn't really brown due to the marinade)
 3. Add the tomato sauce, sugar, and salt. Turn down to low and simmer for 20 minutes.
 4. Stir in the cream, then remove from heat.
 5. Serve with basmati rice.
